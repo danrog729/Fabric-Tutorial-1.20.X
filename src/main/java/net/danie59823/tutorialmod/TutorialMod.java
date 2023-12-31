@@ -19,5 +19,6 @@ public class TutorialMod implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("Hello, hello, rubbish robots from the dawn of time!");
 	}
 }
